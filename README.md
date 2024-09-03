@@ -1,2 +1,2 @@
 # My DSA
-A repo to store all my solved exercise.
+A repo to store all my solved exercises.
